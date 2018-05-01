@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Wartość i:"+i);
 
         System.out.println("Commit#1");
-        System.out.println("Commit2");
+        System.out.println("Commit#2");
     }
 }
