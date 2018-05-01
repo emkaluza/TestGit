@@ -5,7 +5,7 @@ public class Main {
         Integer i = Integer.valueOf(2);
         System.out.println("Wartość i:"+i);
 
-        System.out.println("Commit1");
+        System.out.println("Commit#1");
         System.out.println("Commit2");
     }
 }
